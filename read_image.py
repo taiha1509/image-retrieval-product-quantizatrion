@@ -1,5 +1,5 @@
 import csv
-from image_query import train, search, encode
+from pq_computation import train, search, encode
 from numpy import array, empty, float32
 import numpy as np
 import time
